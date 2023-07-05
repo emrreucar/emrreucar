@@ -1,3 +1,9 @@
+
+<p align="center">
+    <img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=" align="center" width="1000px" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 

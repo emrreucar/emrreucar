@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Pos Application](https://emre-pos-application.onrender.com/)
 
-- 🌱 I’m currently learning **React, NextJS, NodeJS**
+- 🌱 I’m currently learning **React, NextJS, NodeJS, VueJS**
 
 - 👯 I'm currently working on [Food Ordering](https://emre-food-ordering.vercel.app/)
 

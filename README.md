@@ -1,8 +1,6 @@
-
-<p align="center">
-    <img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=" align="center" width="1000px" />
-</p>
-
+<div>
+       <img src="https://github.com/emrreucar/emrreucar/assets/111085998/8a3cd7bd-9eb3-4359-ac92-b353c4fee813" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>

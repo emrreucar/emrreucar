@@ -1,5 +1,5 @@
 <div>
-       <img src="https://github.com/emrreucar/emrreucar/assets/111085998/8a3cd7bd-9eb3-4359-ac92-b353c4fee813" />
+       <img src="https://github.com/emrreucar/emrreucar/assets/111085998/6d42f1a8-f92c-4b61-92d0-a3f9b7a2e2a4" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Emre</h1>

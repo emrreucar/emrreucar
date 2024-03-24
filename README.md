@@ -11,11 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Pos Application](https://emre-pos-application.onrender.com/)
-
-- 🌱 I’m currently learning **React, NextJS, NodeJS, VueJS**
-
-- 👯 I'm currently working on [Food Ordering](https://emre-food-ordering.vercel.app/)
+- 🌱 I’m currently learning **Java Spring Boot and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.emreucar.net/](https://www.emreucar.net/)
 

@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://www.emreucar.net/](https://www.emreucar.web.tr/)]
+- 👨‍💻 All of my projects are available at https://www.emreucar.web.tr/
 
 - 📫 How to reach me **emre.ucarr1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TZbHxi3gjpZW_GEXSoggEQh_kxUL2Gck/view?usp=drive_link](https://drive.google.com/file/d/1TZbHxi3gjpZW_GEXSoggEQh_kxUL2Gck/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
